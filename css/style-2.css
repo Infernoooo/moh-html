@@ -1,0 +1,1056 @@
+.nice-select .option {
+    cursor: pointer !important;
+    
+}
+
+.lefHyper:hover {
+    text-decoration: none !important;
+}
+
+.iconRNav {
+    width: auto !important;
+    border: none !important;
+    margin: 0 !important;
+    height: auto !important;
+}
+
+.image-container .text-container p a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.nice-select .option:hover, .nice-select .option.focus, .nice-select .option.selected.focus {
+    background-color: #b2e1f8 !important;
+    transition: all 0.3s ease;
+}
+
+.nice-select li {
+    color: #333 !important;
+}
+
+
+.public-wrapper .columns a p {
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.public-wrapper a img {
+    margin-bottom: 10px;
+}
+
+.public-wrapper .columns a p:hover {
+    text-decoration: underline;
+}
+
+
+.site-menu > li > a {
+    font-weight: 600;
+
+}
+
+.font-resizer a p {
+
+    margin-bottom: 0;
+}
+
+
+.login-container {
+    background: transparent !important;
+    border: none;
+    padding: 0 !important;
+}
+
+.site-menu > li:last-child {
+    float: right;
+    padding-top: 9px;
+}
+
+.site-menu > li .login-container form button .circle i {
+    color: #fff;
+    font-size: 20px;
+}
+.site-menu > li .login-container form button {
+    display: flex;
+    color: #fff;
+    font-weight: 600;
+}
+
+.site-menu > .home a .fa-home {
+    font-size: 30px;
+    padding: 0;
+}
+
+.site-menu > .home a {
+    border-right: 0;
+    padding: 10px 15px;
+}
+
+.login-container button:hover {
+    background: #fff;
+    color: #00486b;
+}
+
+.login-container button {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+    border: 1px solid #fff;
+    padding: 5px 10px 10px 10px;
+}
+
+.login-container .fa {
+    font-size: 20px;
+}
+
+.site-menu > li .login-container form button .circle i:hover {
+    color: #00486b !important;
+}
+
+
+
+.site-menu > li .login-container form button:hover {
+    color: #00486b;
+}
+
+
+.site-menu > li .login-container form button .circle {
+    border: none;
+    background: transparent;
+    height: auto;
+    width: auto;
+    padding: 0px !important;
+}
+
+
+.alertTitle .fa {
+    color: #82be40;
+    font-size: 40px;
+}
+
+.sectionCHASPreview {
+    padding: 50px 0;
+}
+
+.right-content .large-11.columns {
+    padding-left: 20px !important;
+}
+
+.sectionTabsHealthCare p {
+    color: #fff !important;
+}
+
+.sectionTabsHealthCare .sectionSubTitle {
+    color: #fff;
+    text-transform: none;
+}
+
+.ulTabCare li {
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.ulTabCare a {
+    color: #fff !important;
+}
+.ulTabCare a:hover {
+    color: #fff;
+}
+
+
+.ulTabCare .fa {
+    padding-right: 10px;
+}
+
+#H3 {
+    background: #07b79c !important; 
+}
+
+.ulTabCare {
+    list-style-type: none;
+    margin: 0;
+}
+
+#H1 {
+    background: #0081a7 !important; 
+  
+}
+
+#H2 {
+    background: #e7553a !important; 
+}
+
+.sectionTabsHealthCare .tabcontent {
+    padding: 30px 0 50px 0;
+}
+
+
+element {
+
+    display: block;
+
+}
+
+
+.secCHASTable .fa.fa-chevron-right {
+    padding-left: 15px;
+}
+
+.secCHASTable ul li p {
+    line-height: normal;
+}
+
+.schasUl li {
+    color: #333;
+}
+
+.chasAccordion .accordion-content {
+    background: #f4f5f8;
+    padding: 20px;
+}
+
+.chasAccordion .accordion-title:hover {
+    text-decoration: none;
+    background: #fff;
+}
+
+.secCHASTable {
+    margin-bottom: 50px;
+}
+
+.chasAccordion .accordion-title:focus {
+    text-decoration: none;
+    background: #fff;
+}
+
+.chasAccordion .accordion-title {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.schasUl li .fa {
+    padding-right: 10px;
+}
+
+.schasUl {
+    list-style-type: none;
+    margin: 0;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.schasUl li p {
+    line-height: normal;
+}
+
+.schasUl2 li {
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+.schasUl .large-1.columns {
+    width: 5%;
+}
+.schasUl .large-11.columns {
+    width: 95%;
+}
+
+.schasUl2 li p {
+    line-height: normal;
+}
+
+.pageGenStyle .bread-crumbs .active a {
+    padding-right: 0 !important;
+}
+
+.schasUl .row {
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.schasUl .columns {
+    padding: 0;
+}
+
+.space10 {
+    padding-bottom: 10px;
+}
+.pageGenStyle .bread-crumbs ul li  {
+    padding-left: 0 !important;
+}
+
+.pageGenStyle .right-content .large-11 .fa {
+    color: #007bad;
+    font-size: 20px;
+}
+
+.secCHASTable ol li {
+    font-size: 20px;
+    line-height: 2;
+    color: #333;
+    padding-bottom: 10px;   
+    padding-left: 20px;
+}
+
+.secCHASTable td {
+    padding: 30px;
+    border: 1px solid #b3c1ca;
+}
+
+.sectionCHASPreview .columns.large-8 {
+    padding: 0;
+        padding-right: 0px;
+    padding-right: 15px;
+}
+
+.sectionCHASPreview .columns.large-4 {
+    padding: 0;
+        padding-left: 0px;
+    padding-left: 15px;
+}
+
+.pageGenStyle .right-content ul {
+    list-style-type: none !important;
+    margin: 0 !important;
+}
+
+.pageGenStyle .right-content .fa {
+    font-size: 24px;
+    color: #db3d35;
+}
+
+.pageGenStyle .right-content .row {
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.pageGenStyle .right-content .columns {
+    padding: 0;
+}
+
+.pageGenStyle .right-content .fa {
+    padding-top: 5px;
+}
+
+.pageGenStyle h1 {
+    margin: 0;
+}
+
+.pageGenStyle .right-content {
+    background: #f4f5f8;
+    padding: 30px;
+}
+
+.pageGenStyle .site-menu > li > a:hover {
+    background: #033a55;
+    color: #fff;
+    text-decoration: none;
+}
+
+.alertTitle {
+    font-size: 24px;
+    color: #000;
+    font-weight: 600;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.sectionEventsUpdate .btnMoreInfoRight {
+    margin-top: 30px;
+}
+
+.alert {
+    padding: 20px;
+    opacity: 1;
+    transition: opacity 0.6s;
+    margin-bottom: 50px;
+}
+
+
+.btnMoreInfoRight .fa.fa-chevron-right {
+    padding-left: 15px;
+}    
+
+.appCol {
+    width: 20%;
+    float: left;
+    
+}
+
+.box1 {
+    padding-right: 15px;
+}
+
+.box2 {
+    padding: 0 15px;
+}
+.box3 {
+    padding: 0 15px;
+}
+.box4 {
+    padding: 0 15px;
+}
+
+.appBoxRow::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.boxContent img {
+    height: 86px;
+}
+
+.boxContent:hover {
+    border: 1px solid #0081a7;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+    cursor: pointer;
+}
+
+.appBoxTitle {
+    font-size: 18px;
+    color: #0081a7;
+    line-height: normal;
+    padding-top: 20px;
+}
+
+.box5 {
+    padding-left: 15px;
+}
+.boxContent {
+    background: #f4f5f8;
+    border: 1px solid #b3c1ca;
+    margin: 0 auto;
+    text-align: center;
+    padding:20px;
+}
+
+.welcomeUser {
+    margin-bottom: 30px !important;
+}
+
+.pageGenStyle .well-content {
+    padding: 10px 0 50px 0;
+}
+
+
+.alert.info {background-color: #d8eeca;
+    border-left: 5px solid #82be40;
+    
+    font-size: 20px;
+
+}
+
+
+.closebtn {
+    margin-left: 15px;
+    font-weight: bold;
+    float: right;
+    font-size: 40px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    color: #82be40; 
+}
+
+.closebtn:hover {
+    color: black;
+}
+.sectionWelcome {
+    padding: 50px 0;
+}
+
+.spaceMar50{
+    margin-bottom: 50px;
+}
+
+
+.well-content.headOverlaps {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0 114px 0;
+}
+
+.currentPage {
+    color: #333;
+}
+
+.btnMoreInfo.spaceMar50:hover {
+    background-color: #00486b;
+    color: #fff;
+}
+
+.sBenTxt ul li {
+    font-size: 20px;
+    color: #333;
+}
+
+.sBenTitle {
+    font-size: 20px;
+    color: #000;
+    font-weight: 600;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.schemeListTitle {
+    font-size: 24px;
+    color: #0081a7;
+    line-height: normal;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.sBenImg .fa {
+    font-size: 48px;
+    color: #e5352c;
+}
+
+.sBenTxt {
+    width: 85%;
+    float: right;
+    clear: right;
+}
+
+.sBenImg {
+    width: 15%;
+    float: left;
+    clear: left;
+}
+
+.scol1 {
+    padding-right: 15px;
+    padding-left: 0;
+}   
+.sectionRelatedContent ul li .fa {
+    color: #0081a7;
+    padding-right: 10px;
+}
+
+.footer2 p {
+    font-size: 16px !important;
+    color: #fff !important;
+}
+
+
+.pageGenStyle a {
+    color: #0081a7;
+
+}
+
+.pageGenStyle a:hover {
+    color: #0081a7;
+    text-decoration: underline;
+}
+
+
+.sectionRelatedContent ul {
+    list-style-type: none;
+    margin: 0;
+    font-size: 20px;
+    line-height: 2;
+}
+
+
+.sectionTitle {
+    font-size: 36px;
+    color: #000;
+    font-weight: 600;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+.idapeUl li {
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.space40 {
+    padding-bottom: 40px;
+}
+
+.space20 {
+    padding-bottom: 20px;
+}
+
+.space30 {
+    padding-bottom: 30px;
+}
+
+.sectionTitle .fa {
+    font-size: 48px;
+    color: #e5352c;
+}
+
+/* .sectionTitle .fa {
+    font-size: 40px;
+    color: #e5352c;
+} */
+
+
+.btnLearnMore {
+    width: 100%;
+    float: right;
+    text-align: right;
+    display: block;
+    color: #0081a7;
+}
+
+.bgGray {
+    background: #f4f5f8;
+    padding: 50px 0;
+}
+
+.scol3 {
+    padding-left: 15px;
+    padding-right: 0;
+}
+
+.scol2 {
+    padding: 0 15px;
+}
+
+
+
+
+.btnRow::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.columns.large-7 p {
+    color: #fff;
+}
+
+.schemeList {
+    border: 1px solid #b3c1ca;
+    background: #f4f5f8;
+    padding: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.btnMoreInfoRight:hover {
+    background-color: #00486b;
+    color: #fff;
+}
+
+.btnMoreInfoRight {
+    background: #0081a7;
+    color: #fff;
+    padding: 15px 15px;
+    font-size: 20px;
+    float: right;
+}
+
+
+.cirContent .row {
+    margin: 0;
+    padding: 0;
+        padding-top: 0px;
+    padding-top: 30px;
+}
+
+.cirContent .columns {
+    padding: 0;
+}
+
+.cirLeft {
+    padding: 0;
+        padding-right: 0px;
+    padding-right: 15px;
+}
+
+.postDate .fa {
+    color: #e5352c;
+    font-size: 16px;
+    padding-right: 5px;
+}
+
+.postDate {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+        margin-top: 0px;
+    margin-top: 20px;
+}
+
+.cirListTitle a:hover {
+    text-decoration: none;
+}
+
+.sectionCirculars .row {
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.cirListTitle {
+    font-size: 24px;
+    color: #0081a7;
+    line-height: normal;
+    padding-bottom: 20px;
+    margin: 0;
+
+}
+
+.ciRight {
+    padding: 0;
+        padding-left: 0px;
+    padding-left: 15px;
+}
+
+.cirContent .columns .fa {
+    font-size: 48px;
+    color: #747474;
+    text-align: right;  
+}
+
+.cirContent .large-2.columns {
+    text-align: right;
+}
+
+.cirContent hr {
+    margin: 0;
+    color: #eeeeee;
+    opacity: .5;
+}
+
+.postCategory {
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 3px 5px;
+    background: #0081a7;
+    display: inline-block;
+    color: #fff;
+}
+
+.schemeList:hover {
+    border: 1px solid #0081a7;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+}
+
+.cirContent {
+    padding: 30px;
+    background: #fff;
+    border: 1px solid #b3c1ca;
+}
+
+.EUCategory {
+    font-size: 16px;
+    color: #0081a7;
+    background: #fff;
+    padding: 10px 30px;
+}
+
+.cirContent:hover {
+    border: 1px solid #0081a7;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+    cursor: pointer;
+}
+
+
+.EUContent:hover {
+    border: 1px solid #0081a7 !important;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+    cursor: pointer;
+}
+
+.EUListTitle {
+    font-size: 24px;
+    color: #0081a7;
+    line-height: normal;
+    padding-bottom: 20px;
+    margin: 0;
+    padding-top: 20px;
+    height: 176px;
+}
+
+.row.EUDetails {
+    padding-bottom: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0;
+}
+
+.EUListTitle a:hover {
+    text-decoration: none;
+}
+
+.EUContent {
+    
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #b3c1ca;
+}
+
+.EUDetails .fa.fa-chevron-circle-right {
+    font-size: 32px;
+    color: #0081a7;
+    margin-bottom: 30px;
+}
+
+.catrow {
+    margin-top: -36px !important;
+    z-index: +9999;
+    position: relative;
+}
+
+.QuickContent .large-2 .fa {
+    font-size: 48px;
+    color: #747474;
+    text-align: right;
+}
+
+.QuickContent {
+    padding: 30px;
+    background: #fff;
+    border: 1px solid #b3c1ca;
+}
+
+.QuickContent:hover {
+    border: 1px solid #0081a7;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+    cursor: pointer;
+}
+
+.EUContent img {
+    height: 245px;
+    width: 100%;
+}
+
+.large-4.columns.EU3 {
+    padding: 0;
+        padding-left: 0px;
+    padding-left: 15px;
+}
+
+.sectionEventsUpdate .row {
+    margin: 0;
+}
+
+.large-4.columns.EU2 {
+    padding: 0 15px;
+}
+
+
+.large-4.columns.EU1 {
+    padding: 0;
+        padding-right: 0px;
+    padding-right: 15px;
+}
+
+.sectionEventsUpdate {
+    padding: 50px 0;
+}
+
+.schemeList::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.sectionSubTitle.sSecTitle {
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+
+
+.pageGenStyle .well .well-content .bread-crumbs ul .active-text a:hover {
+        
+        text-decoration: underline;
+        
+    }
+
+    .pageGenStyle .body-content {
+        max-width: 1200px;
+        display: block;
+        margin: 0 auto;
+    }    
+
+    .pageGenStyle .well {
+        
+            background: #fbf3e6;
+            width: 100%;
+            border-bottom: 1px solid #f4eee1;
+        
+        }
+
+        .sectionSubTitle {
+            color: #000;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 24px;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin: 0;
+            padding-bottom: 15px;
+        }
+
+    .tabcontent {
+        padding: 50px 0 50px 0;
+    }
+
+
+    .tabInactive {color:red}
+    .tabActive {color:blue}
+
+    .pageGenStyle p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        color: #333;
+        margin: 0;
+    }
+
+    
+
+    /* div.health-box button.active {
+        background: transparent !important;
+    } */
+
+
+    .btnHealthTab {
+        padding: 15px;
+    }
+
+    .tablinks.active img {
+        opacity: 1;
+    }
+
+    .tablinks img {
+        opacity: .5;
+    }
+
+    /* .active .priBtn.btnHealthTab {
+        background: #fff;
+    } */
+
+    div .sectionTabsHealthCare .tabMenu button {
+        background: #000;
+    }
+
+    div .sectionTabsHealthCare .tabMenu button:hover {
+        color: #fff;
+        opacity: .9;
+        background: #000;
+    }
+
+    .active .btnHealthTab {
+        background: #0081a7;
+        color: #fff;
+    }
+
+    .priBtn.btnHealthTab {
+        background: #0081a7;
+    }
+    
+    .acuteBtn.btnHealthTab {
+        background: #e7553a;
+    }
+
+    .commBtn.btnHealthTab {
+        background: #07b79c;
+    }
+
+    .sectionTabsHealthCare .tabMenu button {
+        margin: 0;
+    }
+
+    .tabImgHealth {
+        width: 100%;
+        /* z-index: -9999;
+        position: relative; */
+    }
+
+    .sectionTabsPrimary div.tabMenu {
+        overflow: hidden;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+        margin-top: -64px;
+    }
+
+    .hMenu {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .sectionTabsHealthCare div.tabMenu button {
+        width: 33.33%;
+        padding:0; 
+    }
+
+
+    .space50 {
+        padding-bottom: 50px;
+        margin-bottom: 0;
+    }
+
+    .btnMoreInfo .fa {
+        padding-left: 15px;
+    }
+
+    .btnMoreInfo {
+        background: #0081a7;
+        color: #fff;
+        padding: 15px 15px;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    
+    .pageGenStyle .bread-crumbs ul {
+        margin-bottom: 50px;
+    }
+
+    /* Style the buttons inside the tab */
+    div.tabMenu button {
+        background-color: #0081a7;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 20px 30px;
+        transition: 0.3s;
+        font-size: 24px;
+        color: #fff;
+        font-weight: 600;
+        text-transform: uppercase;
+        margin: 0 5px;
+    }
+    
+    /* Change background color of buttons on hover */
+    div.tabMenu button:hover {
+        background-color: #00486b;
+        color: #fff;
+    }
+    
+    /* Create an active/current tablink class */
+    div.tabMenu button.active {
+        background-color: #fff;
+        color: #0081a7;
+    }
+    
+    /* Style the tab content */
+    .tabMenucontent {
+        display: none;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-top: none;
+    }
+
+
+    .pageGenStyle .bread-crumbs a {
+        font-size: 16px !important;
+        color: #0081a7 !important;
+    }
+
+    .pageGenStyle .bread-crumbs ul li .fa.fa-angle-right {
+        color: #747474;
+    }
+
+    .pageGenStyle .well .well-content .bread-crumbs {
+        margin-left: 15px !important;
+    }
